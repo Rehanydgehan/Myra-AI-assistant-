@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MYRA</string>
+    <string name="accessibility_service_description">MYRA uses accessibility services to perform system actions on your behalf such as closing apps, opening settings, and executing voice commands.</string>
+</resources>
